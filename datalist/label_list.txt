@@ -1,0 +1,3 @@
+Farmland 0
+Forest 1
+Meadow 2
